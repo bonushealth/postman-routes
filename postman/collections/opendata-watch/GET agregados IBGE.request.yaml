@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: https://servicodados.ibge.gov.br/api/v3/agregados
+method: GET
+order: 1791250497813
