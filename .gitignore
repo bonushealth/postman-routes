@@ -1,0 +1,10 @@
+# Local secrets / env files
+.env
+.env.*
+*.local.yaml
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
